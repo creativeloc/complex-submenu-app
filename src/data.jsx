@@ -18,19 +18,19 @@ const sublinks = [
     links: [
       {
         id: nanoid(),
-        label: "community",
+        label: "Community",
         icon: <Fa500Px />,
         url: "/product/community"
       },
       {
         id: nanoid(),
-        label: "content",
+        label: "Content",
         icon: <FaAccusoft />,
         url: "/product/content"
       },
       {
         id: nanoid(),
-        label: "roles",
+        label: "Roles",
         icon: <FaAdversal />,
         url: "/product/roles"
       }
@@ -42,19 +42,19 @@ const sublinks = [
     links: [
       {
         id: nanoid(),
-        label: "developers",
+        label: "Developers",
         icon: <FaAvianex />,
         url: "/solutions/developers"
       },
       {
         id: nanoid(),
-        label: "content managers",
+        label: "Content Managers",
         icon: <FaBitcoin />,
         url: "/solutions/content-managers"
       },
       {
         id: nanoid(),
-        label: "business teams",
+        label: "Business Teams",
         icon: <FaBtc />,
         url: "/solutions/business teams"
       },
@@ -72,13 +72,13 @@ const sublinks = [
     links: [
       {
         id: nanoid(),
-        label: "starters",
+        label: "Starters",
         icon: <FaDocker />,
         url: "/resources/starters"
       },
       {
         id: nanoid(),
-        label: "showcase",
+        label: "Showcase",
         icon: <FaGithubSquare />,
         url: "/resources/showcase"
       }
