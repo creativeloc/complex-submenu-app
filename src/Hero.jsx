@@ -7,7 +7,7 @@ const Hero = () => {
         </h1>
         <p>
           Strapi is the leading open-source headless CMS. It's 100% JavaScript
-          and Fully Customizable
+          and Fully Customizable.
         </p>
       </div>
     </div>
